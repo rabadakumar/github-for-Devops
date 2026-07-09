@@ -1,0 +1,13 @@
+create a file in local machine
+
+git --version
+
+git init ====> To Initialize empty git repository.
+
+git add <filename> ======> to stage from untrack
+
+git status =====> to check the status 
+
+git commit -m "add any message" ========>From stage to track the file
+
+git restore <file name> ====> to restore
